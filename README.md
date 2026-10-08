@@ -111,6 +111,4 @@ benchmarks/        Timing harness
 - Single-threaded NumPy. VaR scenario blocks are independent, so they parallelize naturally across processes or with Numba.
 - Synthetic data. A loader for real positions and market history would sit alongside `io.py`.
 
-## License
 
-MIT
